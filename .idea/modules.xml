@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Face Detect/.idea/Face Detect.iml" filepath="$USER_HOME$/Downloads/Face Detect/.idea/Face Detect.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Face-Recognizer-Using-LBPH-Recognizer-master/.idea/Face-Recognizer-Using-LBPH-Recognizer-master.iml" filepath="$USER_HOME$/Downloads/Face-Recognizer-Using-LBPH-Recognizer-master/.idea/Face-Recognizer-Using-LBPH-Recognizer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fingerprintdetect/.idea/Fingerprintdetect.iml" filepath="$PROJECT_DIR$/../Fingerprintdetect/.idea/Fingerprintdetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TkinterApp.iml" filepath="$PROJECT_DIR$/.idea/TkinterApp.iml" />
+    </modules>
+  </component>
+</project>

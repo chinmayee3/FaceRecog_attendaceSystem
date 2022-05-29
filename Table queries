@@ -1,0 +1,20 @@
+CREATE DATABASE `face_recognizer`
+CREATE TABLE `student` (
+  `Dep` varchar(45) NOT NULL,
+  `Course` varchar(45) NOT NULL,
+  `Year` varchar(45) NOT NULL,
+  `Semester` varchar(45) NOT NULL,
+  `Student_id` int NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) NOT NULL,
+  `Division` varchar(45) NOT NULL,
+  `Gender` varchar(45) NOT NULL,
+  `DOB` varchar(45) NOT NULL,
+  `Email` varchar(45) NOT NULL,
+  `Phone` varchar(45) NOT NULL,
+  `Address` varchar(200) NOT NULL,
+  `PhotoSample` varchar(45) NOT NULL,
+  `Rollno` varchar(45) NOT NULL,
+  PRIMARY KEY (`Student_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+#these are the query to create table
+
